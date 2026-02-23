@@ -1,24 +1,18 @@
-#include <iostream>
+#ifndef TEXTBOX_H
+#define TEXTBOX_H
+
+#include <string>
 
 class TextBox {
     private:
-    std::string value;
+        std::string value;
 
     public:
-        TextBox(){
-            std::cout << "Constructed new box" << std::endl;
-        }
-        TextBox(std::string val){
-            value = val;
-            std::cout << "Constructed new box" << std::endl;
-        }
-        ~TextBox(){
-            std::cout << "Destructed box" << std::endl;
-        }
-        std::string getValue(){
-            return value;
-        }
-        void setValue(std::string val){
-            value = val;
-        }
+        TextBox();
+        TextBox(std::string val);
+        ~TextBox();
+        std::string getValue();
+        void setValue(std::string val);
 };
+
+#endif
