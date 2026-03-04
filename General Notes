@@ -10,6 +10,11 @@ Languages such as Java, C++, and Python support OOP.
 
 Problem Solving; Identifying and comparing different solutions, and picking the one that best solves that problem with respect to the context and constraints.
 
+IDE Setup (15 minutes).
+1. Install C/C++ extension
+2. Open Syllabus and follow IDE setup instructions
+3. Click on link to MinGW setup
+4. Download installer and install with default settings and follow remaining instructions
 
 Quiz 1:
 Bubble Sort
