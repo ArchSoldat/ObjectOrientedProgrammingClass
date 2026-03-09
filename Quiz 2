@@ -1,0 +1,17 @@
+Quiz 2
+
+3 questions
+1. Short Answer with 3 sub quesetions
+  What is a class object
+  Encapsulation and Abstraction
+  Copy, Parameters, and pre constructors
+2. Build a class according to UML
+3. Coding
+
+Implementation of Example is available in Source Code
+Example: Build a class called BatteryCharger. The class should have the following members: A default constructor and a parameterized constructor.
+A variable power)capacity; type double. The variable keeps track of the remaining charge in the charge (in W/h)
+A varable port_count; type int. This variable keeps track of the number of available charging ports
+A function charge (const Devices dev, int hours)...
+This is not the entire example problem...
+Full example can be found on the BlackBoard.
