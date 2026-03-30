@@ -18,6 +18,11 @@ IDE Setup (15 minutes).
 5. Change Path in Windows setting (see instructions online)
 6. Change Compoiler Path in VS Code: Ctrl+Shift, search for C++ Edit Configurations (UI); C:\msys64\ucrt64\bin\g++.exe
 
+Run File
+1. Restart VS Code after finishing steps above since the compiler will not automatically update.
+2. Run in bash: g++ <Input Filenames> -o <Output Filename, executable>
+3. Run in bash: .\<Output Filename, executable>.exe
+
 Quiz 1:
 Bubble Sort
 Pointers and Arrays
