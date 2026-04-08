@@ -1,0 +1,26 @@
+Topics
+Constructors vs Inheritance
+OVerriding vs Overloading
+
+Lab 5 and 6 are important for review, and the quiz will have very similar questions to these labs
+Inside Array class: what is the rule of 3 (copy constructor, assignment operator, destructor)?
+Make sure to read testing code very carefully during this quiz
+
+10 T/F questions (terms) Classes, operators, overloading
+  A programming paradigm is a style or way of writing software? TRUE
+
+SA Question with 4 sub questions
+  How to overload insertion operator (friend function)!
+  In which situation do we need a friend function? In this case, what do we do? This will be a whole question
+  Instance members and Static members (const, static) and memory allocation between these
+  Copy Constructor & Assignment Operator
+    Define copy constructor and when it should be used
+
+Coding Questions
+1. Operator overlaoding
+    All the operators and how to overload them including binary and uniary operators
+    Check the overload lab; the operators in this question will be the ones not in the lab most likely
+2. Array Class and Rule of 3; How to apply rule of 3 to code or class
+    View solution from Lab 5
+3. She said we already knew what it was but I don't...
+    Check from the slides
